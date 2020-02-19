@@ -1,7 +1,7 @@
 Package: com.captinc.mobilegoosemodule
 Name: MobileGooseModule
-Version: 1.0
-Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Version: 1.0.1
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport, com.pixelomer.mobilegoose
 Author: Capt Inc <teamcaptinc@gmail.com>
 Maintainer: Capt Inc <teamcaptinc@gmail.com>
 Section: Tweaks

@@ -1,11 +1,11 @@
-# MobileGooseModule v1.0
+# MobileGooseModule v1.0.1
 Control Center module to toggle [MobileGoose](https://www.reddit.com/r/jailbreak/comments/f4wnp2/release_mobilegoose_an_annoying_goose_for_your)
 
 Compatible with iOS 11.0+
 
 Repo: [https://captinc.github.io](https://captinc.github.io)
 
-[Direct .deb download](https://github.com/captinc/MobileGooseModule/releases/download/v1.0/com.captinc.mobilegoosemodule_1.0_iphoneos-arm.deb)
+[Direct .deb download](https://github.com/captinc/MobileGooseModule/releases/download/v1.0.1/com.captinc.mobilegoosemodule_1.0.1_iphoneos-arm.deb)
 
 [Reddit post](https://www.reddit.com/r/jailbreak/comments/f62det/release_mobilegoosemodule_control_center_module)
 
