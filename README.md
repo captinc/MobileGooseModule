@@ -23,6 +23,6 @@ A .deb will now be in the "MobileGooseModule-master/packages" folder
 # License
 All credit for the original tweak goes to Pixelomer! I simply made a Control Center module for his tweak, nothing more
 
-Dear Pixelomer: if you're reading this, please feel free to add this project to your official version! I will have no problems with that
+Dear Pixelomer: if you're reading this, please feel free to add this project to your official version!
 
-Please do not repackage my tweak, call it your own, and then redistribute it. You can use individual parts of my code for your own non-commercial projects. There is no warranty. If you have any questions, [PM me on Reddit](https://www.reddit.com/message/compose/?to=captinc37&subject=GitHub%20question)
+Please do not verbatim copy my tweak, call it your own, and redistribute it. You can use individual parts of my code for your own non-commercial projects. There is no warranty. If you have any questions, [PM me on Reddit](https://www.reddit.com/message/compose/?to=captinc37&subject=GitHub%20question)
